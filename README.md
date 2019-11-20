@@ -5,5 +5,7 @@ This is pure Java implementation of console application for making rules based o
 To Run this application need Java v7.
 
 Example:
-  java -jar ./gtsarm_v1.22.jar -help
-  java -jar ./gtsarm_v1.22.jar -in ./input_file.txt
+
+java -jar ./gtsarm_v1.22.jar -help
+
+java -jar ./gtsarm_v1.22.jar -in ./input_file.txt
