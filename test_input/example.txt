@@ -1,0 +1,15 @@
+< s s s d >
+
+[ Inflacja
+  Deficyt_budz
+  Rezerwy_dew
+  Stopy_proc ]
+
+spadek     bez_zmian  wzrost     obnizka
+spadek     wzrost     spadek     obnizka
+bez_zmian  wzrost     wzrost     podwyzka
+bez_zmian  wzrost     spadek     obnizka
+bez_zmian  bez_zmian  spadek     obnizka
+bez_zmian  wzrost     bez_zmian  podwyzka
+spadek     wzrost     wzrost     obnizka
+bez_zmian  bez_zmian  wzrost     podwyzka
